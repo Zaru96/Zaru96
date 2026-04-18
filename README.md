@@ -43,7 +43,7 @@ Berikut adalah teknologi dan alat yang saya pelajari dan gunakan dalam pengemban
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXAxbWkwMW10c25yd290djN3eXF6NTdqcW9zNHV3dGNrb3oxMnhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HPFnMAD65WGfS/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k5aDJwMzhicGlqZjRvOXlxaXNiNmVqaGlzdWtuZTVsYmQxemY1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PmwSU5R6R3cSsbQDjT/giphy.gif"  />
 
 ###
 
